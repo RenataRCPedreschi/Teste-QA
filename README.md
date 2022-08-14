@@ -12,9 +12,9 @@ Requisitos para os testes:
 
 Para os testes:
 
--Abrir o VS Code na pasta que contém os arquivos testeRenata.resource e testeRenata.robot
--Abrir o terminal no VS Code.
--Para rodar os teste, digitar no console do terminal do VS Code .\testeRenata.robot
+- Abrir o VS Code na pasta que contém os arquivos testeRenata.resource e testeRenata.robot
+- Abrir o terminal no VS Code.
+- Para rodar os teste, digitar no console do terminal do VS Code .\testeRenata.robot
 
 
 
