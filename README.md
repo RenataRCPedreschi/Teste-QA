@@ -1,5 +1,5 @@
-# Teste-Sensedata---QA
-Teste para o processo seletivo para a Vaga de QA.
+# Teste-Sensedata - QA
+
 
 Requisitos para os testes:
 - Feito no Windows 10.
@@ -9,6 +9,7 @@ Requisitos para os testes:
 - Selenium instalado na máquina.
 - Baixar a versão do Chromedrive referente a versão do Google Chrome que está utilizando.
 - Especificar caminho do chromedrive.exe no PATH das variáveis de ambiente do Windows.
+- Instalar no cmd o comando pip install -U robotframework
 
 Para os testes:
 
